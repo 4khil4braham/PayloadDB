@@ -1,9 +1,6 @@
-# Payloads All The Things
+# Description
+Initial entry point payloads for fuzzing SQL injection vulnerability.
 
-## Description
-
-Intial entry point payloads for fuzzing SQL injection vulnerability.
-
-## References:
+# References:
 
 None
